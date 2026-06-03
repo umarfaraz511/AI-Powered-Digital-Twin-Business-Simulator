@@ -1,12 +1,21 @@
-# FARSIM — Digital Twin Business Simulator
+# FARSIM Digital Twin Business Simulator
+<img width="955" height="448" alt="p1" src="https://github.com/user-attachments/assets/46c06b2c-dad2-466e-8cfd-75ce0b970f1f" />
+<img width="956" height="440" alt="p2" src="https://github.com/user-attachments/assets/0a8fe931-a13a-4f0b-b24b-b3373cd78983" />
+<img width="958" height="454" alt="p3" src="https://github.com/user-attachments/assets/45c32a5d-b5a8-42ad-9f3e-4f653b42fbe8" />
+<img width="955" height="451" alt="p4" src="https://github.com/user-attachments/assets/985f2602-0e78-4d89-b147-c051d9c34c2f" />
+<img width="950" height="451" alt="p5" src="https://github.com/user-attachments/assets/9b30003e-1918-4ce7-97c8-ac18c11ff004" />
+<img width="956" height="459" alt="p6" src="https://github.com/user-attachments/assets/7a5c2246-6a57-48d3-b823-b2c61c703323" />
+<img width="956" height="450" alt="p7" src="https://github.com/user-attachments/assets/a19b109b-ff19-4e4f-9178-3d233fe02508" />
+<img width="958" height="452" alt="p8" src="https://github.com/user-attachments/assets/d8b28a37-f775-4f60-a01b-2e0bc446a8c0" />
 
-> AI-Powered Digital Twin Business Simulator — Built by Umar Faraz
+
+> AI-Powered Digital Twin Business Simulator  Built by Umar Faraz
 
 Enterprise Edition v2.1.0 · Built by **Umar Faraz**
 
 [![GitHub](https://img.shields.io/badge/GitHub-umarfaraz511-black?logo=github)](https://github.com/umarfaraz511)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Umar%20Faraz-blue?logo=linkedin)](https://www.linkedin.com/in/umar-faraz-700457280)
-[![Umar Faraz](https://img.shields.io/badge/Company-Umar Faraz%20SMC--PVT%20LTD-green)](https://aivonex.com)
+
 
 ---
 
