@@ -1,5 +1,5 @@
 ﻿// FARSIM AI Service â€” Groq LLaMA Integration
-const GROQ_API_KEY = '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'
+const GROQ_API_KEY = ''
 const GROQ_BASE    = 'https://api.groq.com/openai/v1/chat/completions'
 const MODEL        = 'llama-3.3-70b-versatile'
 
