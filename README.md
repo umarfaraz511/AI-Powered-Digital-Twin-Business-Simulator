@@ -1,3 +1,6 @@
+## 🎥 Project Demo
+[screen-capture (8).webm](https://github.com/user-attachments/assets/eda005c5-7a6e-4ba3-b958-4a55fc984107)
+
 # FARSIM Digital Twin Business Simulator
 <img width="955" height="448" alt="p1" src="https://github.com/user-attachments/assets/46c06b2c-dad2-466e-8cfd-75ce0b970f1f" />
 <img width="956" height="440" alt="p2" src="https://github.com/user-attachments/assets/0a8fe931-a13a-4f0b-b24b-b3373cd78983" />
